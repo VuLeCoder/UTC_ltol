@@ -1,1 +1,1 @@
-# Solutions on laptrinhonline.club
+# Solutions on [laptrinhonline.club](http://laptrinhonline.club/)
